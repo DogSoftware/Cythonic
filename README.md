@@ -2,7 +2,8 @@
 Easy and neat (for now basic) programming language!
 <hr>
 <h3>Cythonic is an extremely easy to use programming language designed with simplicity and readability in mind. It's syntax is designed to be as close to natural language as possible, making it accessible for beginners and convenient for experienced developers. Cythonic supports a <i>variety</i> of "commands" (basic for now) for file manipulation, mathematical operations, string processing and more.</h3>
-![](https://github.com/user-attachments/assets/6fe71beb-26c3-4fae-869b-0e5406897a5c)
+
+https://github.com/user-attachments/assets/6fe71beb-26c3-4fae-869b-0e5406897a5c 
 
 ## Features
 
