@@ -1,5 +1,5 @@
 # Cythonic
-<i>Easy and neat (for now basic) programming language!<i>
+Easy and neat (for now basic) programming language!
 <hr>
 <h3>Cythonic is an extremely easy to use programming language designed with simplicity and readability in mind. It's syntax is designed to be as close to natural language as possible, making it accessible for beginners and convenient for experienced developers. Cythonic supports a <i>variety</i> of "commands" (basic for now) for file manipulation, mathematical operations, string processing and more.</h3>
 
@@ -9,6 +9,76 @@
 - **File Operations:** Create, read, append, delete and copy files.
 - **String Manipulation:** Reverse, sort, convert case, find length and repeat strings.
 - **Mathematical Operations:** Basic arithmetic operations such as addition, subtraction, multiplication and division.
+
+## Setting up
+### Linux
+### Prerequisites
+Before you begin, ensure that you have the following installed on your system:
+- A C compiler (like `gcc`)
+- "make" utility
+- "git"
+
+  ### Debian/Ubuntu
+
+1. **Update Your System:**
+   sudo apt-get update && sudo apt-get upgrade
+
+2. **Install the Required Packages:**
+   sudo apt-get install build-essential git
+
+3. **Clone the Cythonic Repository:**
+   git clone https://github.com/DogSoftware/Cythonic.git
+
+4. **Navigate to the Cythonic Directory:**
+   cd cythonic
+
+5. **Build the Program:**
+   make
+
+6. **Try out one of the sample Cythonic script**
+   ./cythonic examples/hello-world.cy
+
+### Fedora
+
+1. **Update Your System:**
+   sudo dnf update
+
+2. **Install the Required Packages:**
+   sudo dnf install gcc git make
+
+3. **Clone the Cythonic Repository:**
+   git clone https://github.com/DogSoftware/Cythonic.git
+
+4. **Navigate to the Cythonic Directory:**
+   cd cythonic
+
+5. **Build the Program:**
+   make
+
+6. **Try out one of the sample Cythonic script**
+   ./cythonic examples/hello-world.cy
+
+### Arch
+
+1. **Update Your System:**
+   sudo pacman -Syu
+
+2. **Install the Required Packages:**
+   sudo pacman -S base-devel git
+
+3. **Clone the Cythonic Repository:**
+   git clone https://github.com/DogSoftware/Cythonic.git
+
+4. **Navigate to the Cythonic Directory:**
+   cd cythonic
+
+5. **Build the Program:**
+   make
+
+6. **Try out one of the sample Cythonic script**
+   ./cythonic examples/hello-world.cy
+
+*Note: Cythonic works fine on Windows Subsystem for Linux*
 
 ## Learning what you are working with
 
