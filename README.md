@@ -6,7 +6,7 @@
 ## Features
 
 - **Simple Syntax:** Commands are written in an easy to understand English like syntax.
-- **File Operations:** Create, read, write, append, delete and copy files.
+- **File Operations:** Create, read, append, delete and copy files.
 - **String Manipulation:** Reverse, sort, convert case, find length and repeat strings.
 - **Mathematical Operations:** Basic arithmetic operations such as addition, subtraction, multiplication and division.
 
