@@ -10,7 +10,7 @@
 - **String Manipulation:** Reverse, sort, convert case, find length and repeat strings.
 - **Mathematical Operations:** Basic arithmetic operations such as addition, subtraction, multiplication and division.
 
-- ## Learning what you are working with
+## Learning what you are working with
 
 ### "print (TMP is such a cool game!);"
 Prints the given text to the "console".
